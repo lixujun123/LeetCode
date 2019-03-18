@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/twosum.dir/0001-Two-Sum-main2.cpp.o  -o twosum -rdynamic 

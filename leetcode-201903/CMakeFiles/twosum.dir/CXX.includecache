@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lixujun/eclipse/leetcode-201903/0001-Two-Sum-main2.cpp
+iostream
+-
+vector
+-
+cassert
+-
+unordered_map
+-
+
